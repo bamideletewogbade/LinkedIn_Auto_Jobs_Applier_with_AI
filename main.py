@@ -2,7 +2,7 @@ import os
 import re
 import sys
 from pathlib import Path
-import yaml
+import yaml 
 import click
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
